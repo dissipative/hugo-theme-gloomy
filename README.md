@@ -1,23 +1,20 @@
 ## Cactus
 
-A hugo theme for personal blog. Fork from hexo theme [cactus](https://github.com/probberechts/hexo-theme-cactus) created by @probberechts.
-
-[Live demo on github pages](https://www.takuzen.me/hugo-theme-cactus/).
-
-Some works are still in progress. See [TODOS](#todos) below.
+A hugo theme for personal blog.
+Fork from [cactus](https://github.com/monkeyWzr/hugo-theme-cactus) theme which is actually a fork from hexo theme [cactus](https://github.com/probberechts/hexo-theme-cactus) created by @probberechts.
 
 ## Install
 
-1. clone cactus to your hugo site's `themes` folder.
+1. clone gloomy to your hugo site's `themes` folder.
 ```
-git clone https://github.com/monkeyWzr/hugo-theme-cactus.git themes/cactus
+git clone https://github.com/dissipative/hugo-theme-gloomy.git themes/gloomy
 ```
 
 2. change your theme to cactus in your site config
 ```toml
 # config.toml
 
-theme = "cactus"
+theme = "gloomy"
 ```
 
 3. config your site. See [Config] or a [complete config sample](exampleSite/config.toml)

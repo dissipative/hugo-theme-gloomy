@@ -1,0 +1,23 @@
+[recent]
+	other = "недавние"
+
+[posts]
+	other = "записи"
+
+[topics]
+	other = "темы"
+
+[copyright]
+  other = "все права"
+
+[prev]
+	other = "предыдущий"
+
+[next]
+	other = "следующий"
+
+[top]
+	other = "вверх"
+
+[share]
+	other = "поделиться"

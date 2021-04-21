@@ -1,0 +1,23 @@
+[recent]
+	other = "recent"
+
+[posts]
+	other = "posts"
+
+[topics]
+	other = "topics"
+
+[copyright]
+  other = "copyright"
+
+[prev]
+	other = "prev"
+
+[next]
+	other = "next"
+
+[top]
+	other = "top"
+
+[share]
+	other = "share"
